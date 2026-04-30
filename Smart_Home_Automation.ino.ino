@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6xc1GrXnG"
+#define BLYNK_TEMPLATE_ID "*********************"
 #define BLYNK_TEMPLATE_NAME "Home automation"
-#define BLYNK_AUTH_TOKEN "xDDsyDbr-RtIrTEXs5pMjesmLjjYoRK6"
+#define BLYNK_AUTH_TOKEN "*******************"
 
 #define BLYNK_PRINT Serial
 
@@ -10,9 +10,9 @@
 #include <ESP32Servo.h>
 
 // Wi-Fi credentials
-char auth[] = "xDDsyDbr-RtIrTEXs5pMjesmLjjYoRK6";
-char ssid[] = "Tor abbu k bol Wifi lagate";
-char pass[] = "Amrabacelor5";
+char auth[] = "******************";
+char ssid[] = "*********************";
+char pass[] = "**************************";
 
 // Sensor/Actuator pins
 #define DHTPIN 4
